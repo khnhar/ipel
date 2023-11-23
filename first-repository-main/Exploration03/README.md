@@ -1,5 +1,5 @@
-코더 : 김한나
-네비게이터 : 김윤서
+코더 : 김한나<br>
+네비게이터 : 김윤서<br>
 리뷰어 :
 
 🔑 PRT(Peer Review Template)
