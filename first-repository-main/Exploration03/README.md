@@ -1,8 +1,9 @@
 코더 : 김한나<br>
 네비게이터 : 김윤서<br>
-리뷰어 : <br>
-🔑 PRT(Peer Review Template)<br>
+리뷰어 : <br><br>
 
+
+🔑 PRT(Peer Review Template)<br>
 1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요? <br>
 
 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
